@@ -1,11 +1,4 @@
-temperature=-41
-
-if  temperature < -40:
-    print("Захвати шапку")
-
-elif temperature < 0:
-      print("Ничего не нужно")
-elif:temperature < 20
-      print("Захвати крем") 
-else 
-    print("Возьми шубу")      
+years = 1\
+if years >= 4;
+Age = input("Сколько тебе лет")
+print("Тебе",)
